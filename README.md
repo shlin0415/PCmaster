@@ -2,7 +2,7 @@
 Plant Cell master    
     
 Available now：    
-PCmaster_ann: Plant Cell master for automatic annotation of cell types    
+PCmaster_anno: Plant Cell master for automatic annotation of cell types    
 https://github.com/shlin0415/SCAPP
     
 In preparation：    
