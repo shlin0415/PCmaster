@@ -6,12 +6,11 @@ PCmaster_anno: Plant Cell master for automatic annotation of cell types
     
 In preparation：    
 PCmaster_seg: Plant Cell master for cell segment of embyro/leaf/...    
-
-
----------------------------------------------------------------------------------------------------------------------------------------
-
-
-
+#### ####
+#### ####
+------------------------------------------------------------------------------------------------------------------------------------------
+#### ####
+#### ####
 ### PCmaster_anno ###
 ### Version 1.0.0 ###
 #### If you don't want to reinstall the conda environment from scratch, you can download the compressed package through [this link](https://pan.baidu.com/s/1qwpAcdd4NALRgTtTtMnnuw?pwd=wkwr), which also contains some files and codes that can be used for testing. ####
