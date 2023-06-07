@@ -21,7 +21,9 @@ Please note that the latest version of the code may cause some undetected bugs.
 
 SCAPP is the old version of PCmaster_anno.    
 https://github.com/shlin0415/SCAPP    
-
+--
+The newest version is on https://github.com/bioinplant/PCmaster.    
+--
 Sincerely thanks to the contributors of python packages such as d2l, doubletdetection, harmonypy, numpy, pandas, scanpy, seaborn, scrublet, scikit-learn, torch, etc.    
 
 If you have some questions, please send email to 12216017@zju.edu.cn.    
