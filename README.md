@@ -19,11 +19,11 @@ You can see some analysis examples in "PCmaster/PCmaster_anno/PCmaster_anno_exam
 If you want to use the latest version, please download the latest 'PCmaster_anno_0_XX_XX_XX.py' file and copy the code in it to replace the code in 'PCmaster_anno_0_copy1.py'.    
 Please note that the latest version of the code may cause some undetected bugs.     
 
-SCAPP is the old version of PCmaster_anno.    
-https://github.com/shlin0415/SCAPP    
---
-The newest version is on https://github.com/bioinplant/PCmaster.    
---
+##### SCAPP is the old version of PCmaster_anno.    ##### 
+##### https://github.com/shlin0415/SCAPP    ##### 
+-----------------
+##### The newest version is on https://github.com/bioinplant/PCmaster.    #####
+-----------------
 Sincerely thanks to the contributors of python packages such as d2l, doubletdetection, harmonypy, numpy, pandas, scanpy, seaborn, scrublet, scikit-learn, torch, etc.    
 
 If you have some questions, please send email to 12216017@zju.edu.cn.    
